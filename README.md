@@ -136,3 +136,21 @@ text-align — выравнивание текста.
 В HTML: <script>...</script>.
 
 ## Лекция №2       
+
+### Основы JavaScript
+
+***Переменные:***
+
+let — современный способ объявления.
+
+var — устаревший способ (не рекомендуется).
+
+const — константа, значение нельзя изменить.
+
+***JavaScript — слабо типизированный язык***
+
+### Типы данных
+
+Примитивы: string, number, boolean, symbol, null, undefined, bigint.
+
+Обёртки примитивов: String, Number, Boolean, Symbol, BigInt.
