@@ -154,3 +154,7 @@ const — константа, значение нельзя изменить.
 Примитивы: string, number, boolean, symbol, null, undefined, bigint.
 
 Обёртки примитивов: String, Number, Boolean, Symbol, BigInt.
+
+
+
+
